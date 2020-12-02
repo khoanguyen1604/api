@@ -26,6 +26,48 @@
 		"image": "hinh_4.png",
 		"description": "This is accessories",
 		"categoriesID": 4
+	},
+	{
+		"furnitureID": 5,
+		"name": "Bed",
+		"image": "hinh_3.png",
+		"description": "This is bed",
+		"categoriesID": 3
+	},
+	{
+		"furnitureID": 6,
+		"name": "Bed",
+		"image": "hinh_3.png",
+		"description": "This is bed",
+		"categoriesID": 3
+	},
+	{
+		"furnitureID": 7,
+		"name": "Bed",
+		"image": "hinh_3.png",
+		"description": "This is bed",
+		"categoriesID": 3
+	},
+	{
+		"furnitureID": 8,
+		"name": "Bed",
+		"image": "hinh_3.png",
+		"description": "This is bed",
+		"categoriesID": 3
+	},
+	{
+		"furnitureID": 9,
+		"name": "Bed",
+		"image": "hinh_3.png",
+		"description": "This is bed",
+		"categoriesID": 3
+	},
+	{
+		"furnitureID": 10,
+		"name": "Bed",
+		"image": "hinh_3.png",
+		"description": "This is bed",
+		"categoriesID": 3
 	}
 
 ]
